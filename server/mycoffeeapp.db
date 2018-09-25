@@ -1,0 +1,4 @@
+{"name":"Abhishek Ghosh","place":"test","location":{"latitude":12.9312075,"longitude":77.6325535,"address":"test","city":"test"},"tastingRating":{"aroma":6,"flavor":8,"intensity":3,"sweetness":4,"aftertaste":1},"type":"CAPA","notes":"test","rating":8,"_id":"OG05iWlwLRznOBGq"}
+{"name":"TESTING","place":"TESTING","location":{"latitude":12.9312191,"longitude":77.6325462,"address":"TESTING","city":"TESTING"},"tastingRating":{},"type":"DATA","notes":"TESTING","rating":10,"_id":"XVOF9G26ZtbAhR7O"}
+{"name":"Sonakshi Gupta","place":"test","location":{"latitude":12.9019991,"longitude":77.6104478,"address":"103-Elegant Elite, RR Nagar,","city":"BENGALURU"},"tastingRating":{},"notes":"test","rating":8,"type":"EXPRESSO","_id":"os4ei1hk9waQHwmp"}
+{"name":"Kinjal","place":"TESTTT","location":{"latitude":12.9019991,"longitude":77.6104478,"address":"TEST","city":"TEEST"},"tastingRating":{},"type":"EXPRESSO","notes":"tEST","rating":6,"_id":"uMSNfmQN49b3W5Dm"}

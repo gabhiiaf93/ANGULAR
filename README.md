@@ -1,4 +1,4 @@
-# ANGULAR
+# ANGULAR6 PWA APPLICATION
 This is a sample progressive web application(PWA) made with Angular 6
 
 Please provide good ratings if you like the application
